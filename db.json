@@ -1,5 +1,8 @@
 {
-   "produto" : [
-    { "valor" : 10  }
+  "produto": [
+    {
+      "nome": "relógio",
+      "preco": 10.00
+    }
   ]
-  }
+}
