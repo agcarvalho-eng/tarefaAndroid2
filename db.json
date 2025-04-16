@@ -3,6 +3,10 @@
     {
       "nome": "relógio",
       "preco": 10.00
+    },
+        {
+      "nome": "caneta",
+      "preco": 5.00
     }
   ]
 }
